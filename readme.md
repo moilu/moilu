@@ -22,7 +22,7 @@ Here are some of the technologies I have some experience with and am continuing 
 
 I'm currently exploring the following topics for fun and personal enrichment:
 
-- **Programming Languages:** C
+- **Languages:** C
 - **Frameworks/Libraries:** React
 - **Other topics:** Assembly language
 
