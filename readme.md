@@ -24,7 +24,6 @@ I'm currently exploring the following topics for fun and personal enrichment:
 
 - **Languages:** C
 - **Frameworks/Libraries:** React
-- **Other topics:** Assembly language
 
 ## 🎨 Portfolio
 
@@ -65,7 +64,6 @@ Actualmente estoy explorando los siguientes temas por diversión y enriquecimien
 
 - **Lenguajes:** C
 - **Frameworks/Librerías:** React
-- **Otros temas de interés:** Ensamblador
 
 ## 🎨 Portafolio
 
