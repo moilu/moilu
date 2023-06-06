@@ -7,7 +7,7 @@ I'm a passionate developer with experience in various technologies. Here's a qui
 Here are some of the technologies I use most frequently and am most experienced with:
 
 - **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frameworks/Libraries:** Vue, Vue Router, Vuex, Svelte, Sass, TailwindCSS
+- **Frameworks/Libraries:** Vue, Vue Router, Vuex, Sass, TailwindCSS
 - **Tools:** Git, Netlify, npm, nvm, Vite
 
 ## 🌱 Technologies I Have Basic Experience With
@@ -15,7 +15,7 @@ Here are some of the technologies I use most frequently and am most experienced 
 Here are some of the technologies I have some experience with and am continuing to improve:
 
 - **Languages:** PHP, TypeScript, Java
-- **Frameworks/Libraries:** SvelteKit, WordPress
+- **Frameworks/Libraries:** Svelte, SvelteKit, WordPress
 - **Tools:** Docker
 
 ## 📘 What I'm Currently Learning
@@ -47,7 +47,7 @@ Soy un desarrollador apasionado con experiencia en diversas tecnologías. Aquí 
 Aquí están algunas de las tecnologías que utilizo con mayor frecuencia y en las que tengo más experiencia:
 
 - **Lenguajes:** JavaScript (ES6+), HTML, CSS
-- **Frameworks/Librerías:** Vue, Vue Router, Vuex, Svelte, Sass, TailwindCSS
+- **Frameworks/Librerías:** Vue, Vue Router, Vuex, Sass, TailwindCSS
 - **Herramientas:** Git, Netlify, npm, nvm, Vite
 
 ## 🌱 Tecnologías con las que tengo experiencia básica
@@ -55,7 +55,7 @@ Aquí están algunas de las tecnologías que utilizo con mayor frecuencia y en l
 Aquí están algunas de las tecnologías con las que tengo cierta experiencia y continúo mejorando:
 
 - **Lenguajes:** PHP, TypeScript, Java
-- **Frameworks/Librerías:** SvelteKit, WordPress
+- **Frameworks/Librerías:** Svelte, SvelteKit, WordPress
 - **Herramientas:** Docker
 
 ## 📘 Lo que estoy aprendiendo actualmente
