@@ -23,7 +23,7 @@ Here are some of the technologies I have some experience with and am continuing 
 I'm currently exploring the following topics for fun and personal enrichment:
 
 - **Languages:** Python
-- **Frameworks/Libraries:** React
+- **Frameworks/Libraries:** React, Three.js
 
 ## 🎨 Portfolio
 
@@ -63,7 +63,7 @@ Aquí están algunas de las tecnologías con las que tengo cierta experiencia y 
 Actualmente estoy explorando los siguientes temas por diversión y enriquecimiento personal:
 
 - **Lenguajes:** Python
-- **Frameworks/Librerías:** React
+- **Frameworks/Librerías:** React, Three.js
 
 ## 🎨 Portafolio
 
